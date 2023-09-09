@@ -14,6 +14,7 @@ useHead({
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:site', content: '@nuxt_js' },
     { name: 'twitter:creator', content: '@nuxt_js' },
+    { name: 'turboviplay', content: 'XH2yTSUSXz-turboviplay' },
   ],
   link: [
     {
